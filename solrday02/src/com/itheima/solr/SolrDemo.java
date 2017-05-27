@@ -34,5 +34,7 @@ public class SolrDemo {
 		solrServer.deleteById("4");
 		solrServer.commit();
 	}
-	
+	public static void main(String[] args) {
+		System.out.println("say hello git.......");
+	}
 }
