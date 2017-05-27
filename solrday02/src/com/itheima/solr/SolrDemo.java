@@ -34,4 +34,5 @@ public class SolrDemo {
 		solrServer.deleteById("4");
 		solrServer.commit();
 	}
+	
 }
